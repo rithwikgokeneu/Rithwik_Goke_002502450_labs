@@ -1,6 +1,7 @@
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
+ * Implement role-based UI (Admin/Faculty/Student/SignUp) and integrate with Business
  */
 
  /*
