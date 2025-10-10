@@ -3,6 +3,7 @@ package Model;
 /**
  *
  * @author rithwikvarma
+ * Proucts page where details like (price,description)
  */
 
 
