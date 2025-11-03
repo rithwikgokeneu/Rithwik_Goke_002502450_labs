@@ -8,6 +8,7 @@ import javax.swing.JPanel;
 /**
  *
  * @author rithwikvarma
+ * Login Supplier J Panel
  */
 public class LoginSupplierJPanel extends javax.swing.JPanel {
     
