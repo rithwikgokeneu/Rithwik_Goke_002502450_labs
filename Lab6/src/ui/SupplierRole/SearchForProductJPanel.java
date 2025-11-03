@@ -1,3 +1,6 @@
+/**
+ * Search For Product J panel
+ */
 package ui.SupplierRole;
 
 import model.Product;
