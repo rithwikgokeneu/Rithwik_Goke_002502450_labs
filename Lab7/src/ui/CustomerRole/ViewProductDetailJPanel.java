@@ -2,6 +2,7 @@
  * CreateProductJPanel.java
  *
  * Created on September 18, 2008, 2:54 PM
+ * Create Product J Panel
  */
 
 package ui.CustomerRole;
