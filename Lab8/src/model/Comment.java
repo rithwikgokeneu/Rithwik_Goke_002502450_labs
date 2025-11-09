@@ -2,6 +2,7 @@
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
+ * Initialize project structure and add model classes (User, Post, Comment)
  */
 package model;
 
